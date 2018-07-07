@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner&amp;Imageview</string>
+    <string name="title">Set image using xml</string>
+    <string name="title1">Set Image using Java</string>
+
+    <string-array name="color">
+        <item>Select Backgroundcolor</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+</resources>
